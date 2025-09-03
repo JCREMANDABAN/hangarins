@@ -28,7 +28,7 @@ DEBUG = True
 ALLOWED_HOSTS = ['killeritot.pythonanywhere.com', '127.0.0.1']
 
 
-# Application definition
+# Application definition app
 
 INSTALLED_APPS = [
     'django.contrib.admin',
