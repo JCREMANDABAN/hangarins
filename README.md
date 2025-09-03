@@ -38,12 +38,6 @@ Here’s what Hangarin offers:
 
 ---
 
-## 📸 Screenshots
-
-> _Add screenshots of the Task list, Admin panel, or ERD diagram here (optional)_
-
----
-
 ## 📦 Installation
 
 Clone the repository and set up the project locally:
